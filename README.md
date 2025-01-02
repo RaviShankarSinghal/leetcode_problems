@@ -30,7 +30,21 @@
 # Longest Common Prefix
   Example 1:
   Input: strs = ["flower","flow","flight"]
+  Output: "fl"
 
   Example 2:
   Input: strs = ["dog","racecar","car"]
   Output: ""
+  
+# Roman to Integer
+  Example 1:
+  Input: s = "III"
+  Output: 3
+  
+  Example 2:
+  Input: s = "LVIII"
+  Output: 58
+  
+  Example 3:
+  Input: s = "MCMXCIV"
+  Output: 1994
