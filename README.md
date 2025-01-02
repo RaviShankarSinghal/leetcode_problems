@@ -137,7 +137,20 @@
   Example 2:
   Input: nums = [1,3,5,6], target = 2
   Output: 1
-  
+
   Example 3:
   Input: nums = [1,3,5,6], target = 7
   Output: 4
+
+# Integer to Roman
+  Example 1:
+  Input: num = 3749
+  Output: "MMMDCCXLIX"
+
+  Example 2:
+  Input: num = 58
+  Output: "LVIII"
+
+  Example 3:
+  Input: num = 1994
+  Output: "MCMXCIV"
