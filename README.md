@@ -119,3 +119,12 @@
   Example 2:
   Input: nums = [0,1,2,2,3,0,4,2], val = 2
   Output: 5, nums = [0,1,4,0,3,_,_,_]
+
+# Find the Index of the First Occurance in a String
+  Example 1:
+  Input: haystack = "sadbutsad", needle = "sad"
+  Output: 0
+
+  Example 2:
+  Input: haystack = "leetcode", needle = "leeto"
+  Output: -1
