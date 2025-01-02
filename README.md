@@ -26,3 +26,11 @@
   Example 3:
   Input: x = 10
   Output: false
+
+# Longest Common Prefix
+  Example 1:
+  Input: strs = ["flower","flow","flight"]
+
+  Example 2:
+  Input: strs = ["dog","racecar","car"]
+  Output: ""
