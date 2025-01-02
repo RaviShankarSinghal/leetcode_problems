@@ -167,4 +167,12 @@
   Example 3:
   Input: arr = ["a","b","a"], k = 3
   Output: ""
-  
+
+# Lemonade Change
+  Example 1:
+  Input: bills = [5,5,5,10,20]
+  Output: true
+
+  Example 2:
+  Input: bills = [5,5,10,10,20]
+  Output: false
