@@ -154,3 +154,17 @@
   Example 3:
   Input: num = 1994
   Output: "MCMXCIV"
+
+# Kth Distinct String in an Array
+  Example 1:
+  Input: arr = ["d","b","c","b","c","a"], k = 2
+  Output: "a"
+
+  Example 2:
+  Input: arr = ["aaa","aa","a"], k = 1
+  Output: "aaa"
+
+  Example 3:
+  Input: arr = ["a","b","a"], k = 3
+  Output: ""
+  
