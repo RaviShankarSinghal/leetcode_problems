@@ -198,3 +198,17 @@
   Example 3:
   Input: s = "luffy is still joyboy"
   Output: 6
+
+# Plus One
+
+  Example 1:
+  Input: digits = [1,2,3]
+  Output: [1,2,4]
+
+  Example 2:
+  Input: digits = [4,3,2,1]
+  Output: [4,3,2,2]
+
+  Example 3:
+  Input: digits = [9]
+  Output: [1,0]
