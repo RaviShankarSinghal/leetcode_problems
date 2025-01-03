@@ -176,3 +176,12 @@
   Example 2:
   Input: bills = [5,5,10,10,20]
   Output: false
+
+# Number of Ways to Split Array
+  Example 1:
+  Input: nums = [10,4,-8,7]
+  Output: 2
+
+  Example 2:
+  Input: nums = [2,3,1,0]
+  Output: 2
