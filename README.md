@@ -185,3 +185,16 @@
   Example 2:
   Input: nums = [2,3,1,0]
   Output: 2
+
+# Length of Last Word
+  Example 1:
+  Input: s = "Hello World"
+  Output: 5
+
+  Example 2:
+  Input: s = "   fly me   to   the moon  "
+  Output: 4
+
+  Example 3:
+  Input: s = "luffy is still joyboy"
+  Output: 6
