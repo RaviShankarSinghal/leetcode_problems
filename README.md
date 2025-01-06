@@ -221,3 +221,12 @@
   Example 2:
   Input: a = "1010", b = "1011"
   Output: "10101"
+
+# Sqrt(X)
+  Example 1:
+  Input: x = 4
+  Output: 2
+
+  Example 2:
+  Input: x = 8
+  Output: 2
