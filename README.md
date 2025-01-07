@@ -243,3 +243,17 @@
   Example 3:
   Input: words = ["blue","green","bu"]
   Output: []
+
+# Maximum Score After Splitting a String
+
+  Example 1:
+  Input: s = "011101"
+  Output: 5 
+
+  Example 2:
+  Input: s = "00111"
+  Output: 5.
+
+  Example 3:
+  Input: s = "1111"
+  Output: 3
