@@ -230,3 +230,16 @@
   Example 2:
   Input: x = 8
   Output: 2
+
+# 1408. String Matching in an Array
+  Example 1:
+  words = ["mass","as","hero","superhero"]
+  Output: ["as","hero"]
+
+  Example 2:
+  Input: words = ["leetcode","et","code"]
+  Output: ["et","code"]
+
+  Example 3:
+  Input: words = ["blue","green","bu"]
+  Output: []
