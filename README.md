@@ -257,3 +257,17 @@
   Example 3:
   Input: s = "1111"
   Output: 3
+
+# 3042. Count Prefix and Suffix Pairs I
+
+  Example 1:
+  Input: words = ["a","aba","ababa","aa"]
+  Output: 4
+
+  Example 2:
+  Input: words = ["pa","papa","ma","mama"]
+  Output: 2
+ 
+  Example 3:
+  Input: words = ["abab","ab"]
+  Output: 0
