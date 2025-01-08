@@ -1,4 +1,4 @@
-class PrefixSuffixPair.
+class PrefixSuffixPair
   def count_prefix_suffix_pairs(words)
     count = 0
     words.each do |word|
